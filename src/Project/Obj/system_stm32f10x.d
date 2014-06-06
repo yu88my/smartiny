@@ -1,0 +1,16 @@
+.\Obj\system_stm32f10x.o: ..\CMSIS\DeviceSupport\system_stm32f10x.c
+.\Obj\system_stm32f10x.o: ..\CMSIS\DeviceSupport\stm32f10x.h
+.\Obj\system_stm32f10x.o: ..\CMSIS\CoreSupport\core_cm3.h
+.\Obj\system_stm32f10x.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Obj\system_stm32f10x.o: ..\CMSIS\DeviceSupport\system_stm32f10x.h
+.\Obj\system_stm32f10x.o: ..\User\inc\stm32f10x_conf.h
+.\Obj\system_stm32f10x.o: ..\StdPeriph_Driver\inc\stm32f10x_adc.h
+.\Obj\system_stm32f10x.o: ..\CMSIS\DeviceSupport\stm32f10x.h
+.\Obj\system_stm32f10x.o: ..\StdPeriph_Driver\inc\stm32f10x_bkp.h
+.\Obj\system_stm32f10x.o: ..\StdPeriph_Driver\inc\stm32f10x_dma.h
+.\Obj\system_stm32f10x.o: ..\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Obj\system_stm32f10x.o: ..\StdPeriph_Driver\inc\stm32f10x_pwr.h
+.\Obj\system_stm32f10x.o: ..\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\Obj\system_stm32f10x.o: ..\StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\Obj\system_stm32f10x.o: ..\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\Obj\system_stm32f10x.o: ..\StdPeriph_Driver\inc\misc.h

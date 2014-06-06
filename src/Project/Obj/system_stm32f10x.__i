@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CoreSupport -I..\CMSIS\DeviceSupport -I..\StdPeriph_Driver\inc -I..\User\inc -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\ST\STM32F10x" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ".\Obj\system_stm32f10x.o" --omf_browse ".\Obj\system_stm32f10x.crf" --depend ".\Obj\system_stm32f10x.d" "..\CMSIS\DeviceSupport\system_stm32f10x.c"
